@@ -1,0 +1,16 @@
+{
+  "name": "eazier",
+  "version": "1.0.0",
+  "description": "This package containes the code for the eazier framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Eazier",
+    "Eazier",
+    "framework"
+  ],
+  "author": "skrockets team",
+  "license": "ISC"
+}
